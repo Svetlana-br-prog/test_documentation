@@ -1,4 +1,5 @@
 ## Тестирование веб формы: [ITCareerToday web form](http://itcareer.pythonanywhere.com/)
+#### [Чек-листы и баг-репорты](https://docs.google.com/spreadsheets/d/1EPUtFa1-67sgmAbahCtU3inv1W-o2CrTcw43vXCFE5w/edit?usp=sharing)
 
 ### Требования 
 
