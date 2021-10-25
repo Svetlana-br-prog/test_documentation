@@ -74,7 +74,7 @@
 - Этот чек-лист основан на рекомендациях Apple
 1. Приложение позволяет пользователю выбирать, куда сохранять файлы при экспорте;
 2. Приложение поддерживает один из трех размеров стикеров, отображающихся на основе сетки (для приложений, поддерживающих обмен сообщениями);
-![размер_сетки](https://github.com/Svetlana-br-prog/test_documentation/blob/main/Mobile_testing/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D1%81%D0%B5%D1%82%D0%BA%D0%B8.JPG=250x)
+![размер_сетки](https://github.com/Svetlana-br-prog/test_documentation/blob/main/Mobile_testing/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D1%81%D0%B5%D1%82%D0%BA%D0%B8.JPG)
 3. 
 
 
