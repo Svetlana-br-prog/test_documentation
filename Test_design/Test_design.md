@@ -2,4 +2,4 @@
 
 ### State & Transition Diagram
 
-![DressUP](https://drive.google.com/file/d/1aBgIx9EqABGzFdqQE9lJWG3qHGfq07uI/view?usp=sharing)
+![DressUP](https://github.com/Svetlana-br-prog/test_documentation/blob/main/Test_design/S%26T_Diagram.JPG)
