@@ -5,4 +5,4 @@
 [Check-list and Bug-report](https://docs.google.com/spreadsheets/d/1EPUtFa1-67sgmAbahCtU3inv1W-o2CrTcw43vXCFE5w/edit?usp=sharing)
 - Сайт - [IKEA](https://www.ikea.com/ru/ru/) </br>
 Небольшой набор чек-листов и тест-кейсов
-
+- Тест-кейс к тестированию поля даты
